@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 export class Register extends Component {
   render() {
-    return (
+    return (          
       <div>
         <div className="d-flex align-items-center auth px-0">
           <div className="row w-100 mx-0">
